@@ -6,7 +6,7 @@ permalink: /venue/
 
 The workshop will be held in the King's building (at the Strand Campus) of King's College London, which is located in central London (see the map below). All talks will be given in the Nash Lecture theatre, whilst registration, lunch and poster sessions will take place in the River room.
 
-<p><em>If you are not based at King's College London you may have to register as a vistor when you arrive. Please factor this into your travel arrangements.</em></p>
+<p><em>If you are not based at King's College London you may have to register as a visitor when you arrive. Please factor this into your travel arrangements.</em></p>
 
 <p> If you are travelling by public transport the Strand Campus can easily be reached using the London Underground network. The closest Underground Stations include:
 
