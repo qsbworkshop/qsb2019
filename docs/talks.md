@@ -3,14 +3,14 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+
+<p> We are now open for registration. Please see <a href="http://qsbworkshop.github.io/qsb2018/register"> here</a> for registration forms and related details. </p>
+<br>
+<p> The workshop comprises of a series of talks by invited speakers, as well as two student presentations. If ou would like to give a presentation, please indicate so in the Registration Form. We will review all applications and notify you with any outcome of your application. </p>
+<br>
+<p> There is also a poster session on the day, during lunch time. Please indicate your preference should you want to present a poster in our workshop. Again we will review all applications and notify you with any outcome of your application. </p>
+
 <!--
- <p>To register for the workshop please fill out the <a href="https://goo.gl/forms/4fAywxfxkhoUXTBA3">registration form here.</a>
- 
- <p>Registration for the workshop is free, but there are a limitted number of places available. Light refreshments will be provided on the day. Unfortunately we cannot provide any support for travel arrangements, thus, participants should organise any travel and accommodation required to attend the workshop themselves.
-
- <p><i>Registration is now closed.</i>
-  -->
-
 <h2>Invitied speakers:</h2>
 <br>
  
@@ -25,7 +25,6 @@ permalink: /talks/
 <h4><a href="https://www.biorxiv.org/content/early/2017/09/21/192039">Peter Swain - An intracellular organization of extracellular information</a></h4>
 <br>
 
-
 <h2>Particpant talks:</h2>
 <br>
 <h4><a href="http://qsbworkshop.github.io/qsb2017/images/S_Grigolon.pdf">Silvia Grigolon - Friction forces position the neural anlagen</a></h4>
@@ -34,4 +33,4 @@ permalink: /talks/
 <br>
 <h4><a href="http://qsbworkshop.github.io/qsb2017/images/J_Pausch.pdf">Johannes Pausch - A field-theoretic approach to microtubule growth</a></h4>
 <br>
-
+-->

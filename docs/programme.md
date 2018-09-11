@@ -4,13 +4,18 @@ title: Programme
 permalink: /programme/
 ---
 
-<p>The workshop will run all day on November 3 2017. 
+<p>The workshop will run all day on November 9 2018. 
 <!--   
  <p><em>A detailed schedule will appear here soon.</em> 
 -->
-<p>The workshop shall be held in the King's building at the Strand campus of King's College London - <a href="https://qsbworkshop.github.io/qsb2017/venue/">see here for more details</a>. </p>
- 
+<p>The workshop shall be held at the Strand campus of King's College London - <a href="https://qsbworkshop.github.io/qsb2018/venue/">see here for more details</a>. </p>
+
+<p>We will confirm very soon the exact rooms in which the talks and the poster sessions will take place. </p>
+
+<!-- 
 <p>All talks will be given the <em><b>Nash Lecture Theatre</b></em>, whilst registration, lunch and the poster sessions will take place in the <em><b>River room</b></em>. </p>
+-->
+
 <br>
 
 <head>
@@ -36,59 +41,65 @@ th {
     <th>Title</th>
   </tr>
   <tr>
-    <td>09:30-09:45</td>
-    <td colspan="2">Introduction and registration</td>
+    <td>09:30-10:00</td>
+    <td colspan="2">Coffee and registration</td>
   </tr>
   <tr>
-    <td>09:45-10:30</td>
-    <td>Peter Swain</td>
-    <td>An intracellular organization of extracellular information</td>
+    <td>10:00-10:10</td>
+    <td colspan="2">Introduction</td>
   </tr>
   <tr>
-    <td>10:30-11:15</td>
-    <td>Carole Proctor</td>
-    <td>Using computer simulation models to investigate the molecular mechanisms of ageing</td>
+    <td>10:10-10:55</td>
+    <td>Christopher Yau (Birmingham)</td>
+    <td><i>To be announced</i></td>
   </tr>
   <tr>
-    <td>11:15-11:45</td>
-    <td>Joseph Ng</td>
-    <td>Functional enrichment of gene expression neighbours reflects diversification of APOBEC3 cytidine deaminases in cancers    </td>
+    <td>10:55-11:40</td>
+    <td>Michelle Kendall (Oxford)</td>
+    <td><i>To be announced</i></td>
   </tr>
   <tr>
-    <td>11:45-13:15</td>
-    <th colspan="2">Lunch and poster session</th>
+    <td>11:40-11:45</td>
+    <td colspan="2"><i>5-minute short break</i></td>
   </tr>
   <tr>
-    <td>13:15-14:00</td>
-    <td>Alex Fletcher</td>
-    <td>Cancer progression and therapeutic response: A role for agent-based and multiscale modelling</td>
+    <td>11:45-12:25</td>
+    <td>Sarah Harris (Leeds)</td>
+    <td><i>To be announced</i></td>
   </tr>
   <tr>
-    <td>14:00-14:45</td>
-    <td>Charlotte Deane</td>
-    <td>Improving fragment assembly protein structure prediction</td>
+    <td>12:25-13:30</td>
+    <td colspan="2"><i>Lunch and Posters</i></td>
   </tr>
   <tr>
-    <td>14:45-15:15</td>
-    <td>Silvia Grigolon</td>
-    <td>Friction forces position the neural anlage</td>
+    <td>13:30-14:10</td>
+    <td>Kit Yates (Bath)</td>
+    <td><i>To be announced</i></td>
   </tr>
   <tr>
-    <td>15:15-16:15</td>
-    <th colspan="2">Poster session</th>
+    <td>14:10-14:50</td>
+    <td>Neil Dalchau (Microsoft Research)</td>
+    <td><i>To be announced</i></td>
   </tr>
   <tr>
-    <td>16:15-17:00</td>
-    <td>Julian Gough</td>
-    <td>A computational system for manipulating cell fate control networks (Morgrify)</td>
+    <td>14:50-15:20</td>
+    <td colspan="2">Student Talk 1</td>
   </tr>
   <tr>
-    <td>17:00-17:30</td>
-    <td>Johannes Pausch</td>
-    <td>A field-theoretic approach to microtubule growth</td>
+    <td>15:20-15:50</td>
+    <td colspan="2"><i>Coffee</i></td>
   </tr>
   <tr>
-    <td>17:30-17:45</td>
+    <td>15:50-16:30</td>
+    <td>Irilenia Nobeli (Birkbeck)</td>
+    <td><i>To be announced</i></td>
+  </tr>
+  <tr>
+    <td>16:30-17:00</td>
+    <td colspan="2">Student Talk 2</td>
+  </tr>
+  <tr>
+    <td>17:00-17:15</td>
     <td colspan="2">Concluding remarks</td>
   </tr>
 </table>
