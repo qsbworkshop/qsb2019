@@ -18,7 +18,7 @@ author: The Organising Committee
 email: qsb2017@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   QSB2017 - student-led workshop, 3rd November 2017, Strand Campus, King's College London.
-baseurl: “/qsb2017” # the subpath of your site, e.g. /blog
+#baseurl: “” # the subpath of your site, e.g. /blog
 url: “http://qsbworkshop.github.io” # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
