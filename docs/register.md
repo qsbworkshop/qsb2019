@@ -8,3 +8,10 @@ permalink: /register/
  <p>Registration for the workshop is free, but there are a limited number of places available. Refreshments and lunch will be provided on the day as indicated on the schedule. Unfortunately we cannot provide any support for travel arrangements, thus, participants should organise any travel and accommodation required to attend the workshop themselves.</p>
 
  <p>There are opportunities for participants to give a talk or a poster. Please indicate on the registration form if you wish to do so. We will review all applications and notify you of any outcome of your applications, by the end of <em>19 October 2018 (Friday)</em>. </p>
+ 
+ <br>
+ 
+ <h2>Deadlines</h2>
+ <p><b>15 October 2018 (Monday) 12:00 noon</b> - Registration for participants who wish to present a talk/poster</p>
+ <p><b>19 October 2018 (Friday) 5:00pm</b> - Notification of outcome of talk/poster presentation application</p>
+ <p><b>31 October 2018 (Wednesday) 12:00 noon</b> - Registration for all other participants</p>
