@@ -51,7 +51,7 @@ th {
   <tr>
     <td>10:10-10:55</td>
     <td>Christopher Yau (Birmingham)</td>
-    <td><i>To be announced</i></td>
+    <td><i>Learning biological dynamics from static data: constructing temporal trajectories using machine learning</i></td>
   </tr>
   <tr>
     <td>10:55-11:40</td>
