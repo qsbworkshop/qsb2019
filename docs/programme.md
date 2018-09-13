@@ -74,7 +74,7 @@ th {
   <tr>
     <td>13:30-14:10</td>
     <td>Kit Yates (Bath)</td>
-    <td><i>To be announced</i></td>
+    <td><i>Hybrid frameworks for modelling reaction-diffusion processes</i></td>
   </tr>
   <tr>
     <td>14:10-14:50</td>
