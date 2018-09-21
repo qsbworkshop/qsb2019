@@ -10,7 +10,7 @@ permalink: /programme/
 -->
 <p>The workshop shall be held at the Strand campus of King's College London - <a href="https://qsbworkshop.github.io/qsb2018/venue/">see here for more details</a>. </p>
 
-<p>We will confirm very soon the exact rooms in which the talks and the poster sessions will take place. </p>
+<p>The talks will be held in the <a href="https://www.kingsvenues.com/Conferences-Meetings/Strand/Council-Room.aspx">Council Room</a>. Lunch and tea/coffee will be served in the <a href="https://www.kingsvenues.com/Conferences-Meetings/Strand/River-Room.aspx">River Room</a>, where the poster session will also take place. </p>
 
 <!-- 
 <p>All talks will be given the <em><b>Nash Lecture Theatre</b></em>, whilst registration, lunch and the poster sessions will take place in the <em><b>River room</b></em>. </p>
@@ -65,7 +65,7 @@ th {
   <tr>
     <td>11:45-12:25</td>
     <td>Sarah Harris (Leeds)</td>
-    <td><i>To be announced</i></td>
+    <td><i>Supercomputing in the Cellular Jungle</i></td>
   </tr>
   <tr>
     <td>12:25-13:30</td>
