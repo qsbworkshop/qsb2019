@@ -14,14 +14,14 @@ permalink: /speakers/
 
 <h3><a href="http://www.astbury.leeds.ac.uk/people/staff/staffpage.php?StaffID=SAH">Sarah Harris</a></h3>
   <p>
-     <img src="http://qsbworkshop.github.io/qsb2018/images/HarrisS.jpg" alt="Sarah Harris" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Talk: </b>To be announced<br><br><b>Bio: </b>The research groups uses high performance computing to model biomolecules and aim to cover all of the time and length-scales of relevance to molecular biology. This requires computational methods ranging from quantum mechanical, through atomistic to mesoscale modelling.
+     <img src="http://qsbworkshop.github.io/qsb2018/images/HarrisS.jpg" alt="Sarah Harris" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Talk: </b>Supercomputing in the Cellular Jungle<br><br><b>Bio: </b>The research groups uses high performance computing to model biomolecules and aim to cover all of the time and length-scales of relevance to molecular biology. This requires computational methods ranging from quantum mechanical, through atomistic to mesoscale modelling.
   </p>
 <br>
 <br>
 
 <h3><a href="https://michellekendall.github.io/">Michelle Kendall</a></h3>
   <p>
-     <img src="http://qsbworkshop.github.io/qsb2018/images/Michelle_Kendall.jpg" alt="Michelle Kendall" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Talk: </b>To be announced<br><br><b>Bio: </b>I am a senior researcher in statistical genetics and pathogen dynamics at the Oxford Big Data Institute working on the BEEHIVE project which is a cross-European study of HIV genomics and virulence. I am particularly interested in developing tree-based methods for answering statistical questions about HIV genotypic variation within and between patients.  </p>
+     <img src="http://qsbworkshop.github.io/qsb2018/images/Michelle_Kendall.jpg" alt="Michelle Kendall" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Talk: </b>Inferring the "true" tree: what to do when phylogenetic analyses disagree<br><br><b>Bio: </b>I am a senior researcher in statistical genetics and pathogen dynamics at the Oxford Big Data Institute working on the BEEHIVE project which is a cross-European study of HIV genomics and virulence. I am particularly interested in developing tree-based methods for answering statistical questions about HIV genotypic variation within and between patients.  </p>
 <br>
 <br>
 
