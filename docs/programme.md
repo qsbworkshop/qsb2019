@@ -56,7 +56,7 @@ th {
   <tr>
     <td>10:55-11:40</td>
     <td>Michelle Kendall (Oxford)</td>
-    <td><i>To be announced</i></td>
+    <td><i>Inferring the "true" tree: what to do when phylogenetic analyses disagree</i></td>
   </tr>
   <tr>
     <td>11:40-11:45</td>
