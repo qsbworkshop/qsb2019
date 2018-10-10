@@ -27,7 +27,7 @@ permalink: /speakers/
 
 <h3><a href="http://people.cryst.bbk.ac.uk/~ubcg71a/research.html">Irilenia Nobeli</a></h3>
   <p>
-     <img src="http://qsbworkshop.github.io/qsb2018/images/nobeli.jpg" alt="Irilenia Nobeli" style="float:Left;width:140px;padding-right:10px;padding-bottom:90px;"><b>Talk: </b>To be announced<br><br><b>Bio: </b>Irilenia Nobeli (Birkbeck) focuses on the computational study of gene expression using transcriptomic data and is particularly excited about the roles of non-coding RNAs in regulation of gene expression. Her group has a long history of applying computational methods (mainly docking) to identify promising leads in drug design projects, or ligands relevant to protein function. In the past, we have also explored ligand-binding and catalytic promiscuity and its evolutionary origins. The group also has a long-standing interest in the analysis of the collections of endogenous metabolites in model organisms from a structural and physicochemical point of view. We use chemoinformatics methods to reveal the relationships between metabolites within a species, compare metabolites from different species, and finally compare endogenous metabolites to exogenous (human made or environmental) small molecules.
+     <img src="http://qsbworkshop.github.io/qsb2018/images/nobeli.jpg" alt="Irilenia Nobeli" style="float:Left;width:140px;padding-right:10px;padding-bottom:90px;"><b>Talk: </b>From transcriptomic data to plausible biology hypotheses via bioinformatics<br><br><b>Bio: </b>Irilenia Nobeli's lab has expertise in computational biology and chemoinformatics. Current interests include regulatory RNAs, transcriptomics in health and disease, disorders of the brain and the role of small molecules in Biology.
   </p>
 <br>
 <br>
