@@ -79,7 +79,7 @@ th {
   <tr>
     <td>14:10-14:50</td>
     <td>Neil Dalchau (Microsoft Research)</td>
-    <td><i>To be announced</i></td>
+    <td><i>Programming biomolecular systems</i></td>
   </tr>
   <tr>
     <td>14:50-15:20</td>
