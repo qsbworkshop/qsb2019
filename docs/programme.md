@@ -92,7 +92,7 @@ th {
   <tr>
     <td>15:50-16:30</td>
     <td>Irilenia Nobeli (Birkbeck)</td>
-    <td><i>To be announced</i></td>
+    <td><i>From transcriptomic data to plausible biology hypotheses via bioinformatics</i></td>
   </tr>
   <tr>
     <td>16:30-17:00</td>
