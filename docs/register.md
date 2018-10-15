@@ -12,6 +12,6 @@ permalink: /register/
  <br>
  
  <h2>Deadlines</h2>
- <p><b>15 October 2018 (Monday) 12:00 noon</b> - Registration for participants who wish to present a talk/poster</p>
- <p><b>19 October 2018 (Friday) 5:00pm</b> - Notification of outcome of talk/poster presentation application</p>
- <p><b>31 October 2018 (Wednesday) 12:00 noon</b> - Registration for all other participants</p>
+ <p><b>15 October 2018 (Monday) 12:00 noon</b> - Registration for participants who wish to present a <span style="color:blue">talk</span></p>
+ <p><b>19 October 2018 (Friday) 5:00pm</b> - Notification of outcome of <span style="color:blue">talk</span> presentation application</p>
+ <p><span style="color:blue"><b>31 October 2018 (Wednesday) 12:00 noon</b> - Registration for poster presentation and all other participants</span></p>
