@@ -83,7 +83,8 @@ th {
   </tr>
   <tr>
     <td>14:50-15:20</td>
-    <td colspan="2">Student Talk 1</td>
+    <td>Sarah-Beth Amos (University of Oxford)</td>
+    <td><i>To be confirmed</i><em><b>(Student Talk)</b></em></td>
   </tr>
   <tr>
     <td>15:20-15:50</td>
@@ -96,7 +97,8 @@ th {
   </tr>
   <tr>
     <td>16:30-17:00</td>
-    <td colspan="2">Student Talk 2</td>
+    <td>Nuria Folguera Blasco (The Francis Crick Institute)</td>
+    <td><i>To be confirmed</i><em><b>(Student Talk)</b></em></td>
   </tr>
   <tr>
     <td>17:00-17:15</td>
