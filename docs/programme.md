@@ -98,7 +98,7 @@ th {
   <tr>
     <td>16:30-17:00</td>
     <td>Nuria Folguera Blasco (The Francis Crick Institute)</td>
-    <td><i>To be confirmed</i><em><b>(Student Talk)</b></em></td>
+    <td><i>Beating cancer 'escape room': let's use mathematical modelling to unlock cells!</i><em><b> (Student Talk)</b></em></td>
   </tr>
   <tr>
     <td>17:00-17:15</td>
