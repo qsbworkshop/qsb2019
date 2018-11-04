@@ -84,7 +84,7 @@ th {
   <tr>
     <td>14:50-15:20</td>
     <td>Sarah-Beth Amos (University of Oxford)</td>
-    <td><i>To be confirmed</i><em><b>(Student Talk)</b></em></td>
+    <td><i>Simulations and Markov state models of protein disorder</i><em><b>(Student Talk)</b></em></td>
   </tr>
   <tr>
     <td>15:20-15:50</td>
