@@ -26,7 +26,7 @@ permalink: /talks/
 
 <h2>Student talks:</h2>
 <br>
-<h4>Sarah-Beth Amos (University of Oxford)	To be confirmed</h4>
+<h4>Sarah-Beth Amos (University of Oxford)	Simulations and Markov state models of protein disorder</h4>
 <br>
 <h4>Nuria Folguera Blasco (The Francis Crick Institute)	Beating cancer 'escape room': let's use mathematical modelling to unlock cells!</h4>
 <br>
