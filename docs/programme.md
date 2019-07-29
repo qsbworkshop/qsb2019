@@ -4,7 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
-<p>The workshop will run all day on November 9 2018. 
+<p>The workshop will run all day on Monday October 28<sup>th</sup> 2019. A scientific networking event will run all day on Tuesday October 29<sup>th</sup> 2019.</p>
 <!--   
  <p><em>A detailed schedule will appear here soon.</em> 
 -->
@@ -15,9 +15,10 @@ permalink: /programme/
 <!-- 
 <p>All talks will be given the <em><b>Nash Lecture Theatre</b></em>, whilst registration, lunch and the poster sessions will take place in the <em><b>River room</b></em>. </p>
 -->
-
+<p>Full schedule to be announced here soon. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter for future updates</a>.</p>
+ 
 <br>
-
+<!--
 <head>
 <style>
 table, th, td {
@@ -33,7 +34,7 @@ th {
 </style>
 </head>
 <body>
-
+<!--
 <table style="width:100%">
   <tr>
     <th>Time</th>
@@ -105,6 +106,7 @@ th {
     <td colspan="2">Concluding remarks</td>
   </tr>
 </table>
-
+<!--
 </body>
+-->
 
