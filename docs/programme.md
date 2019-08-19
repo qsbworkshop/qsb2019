@@ -4,7 +4,7 @@ title: Programme
 permalink: /programme/
 ---
 
-<p>The workshop will run all day on Monday October 28<sup>th</sup> 2019. Student talks will be invited and delivered on Tuesday October 29<sup>th</sup> in the morning, with a scientific networking event will run in the afternoon</p>
+<p>The workshop will run all day on Monday October 28<sup>th</sup> 2019. Student talks will be invited and delivered on Tuesday October 29<sup>th</sup> in the morning, with a scientific networking event which will run in the afternoon.</p>
 <!--   
  <p><em>A detailed schedule will appear here soon.</em> 
 -->
