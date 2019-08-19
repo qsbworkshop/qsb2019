@@ -22,7 +22,7 @@ permalink: /talks/
 <br>
 <h4>Andela Šarić (University College London)</h4>
 <br>
-<h4>Dora Tang (MPI-CBG)	Programming biomolecular systems</h4>
+<h4>Dora Tang (MPI-CBG)	</h4>
 <br>
 <!---<h4>Irilenia Nobeli (Birkbeck)	From transcriptomic data to plausible biology hypotheses via bioinformatics</h4>-->
 
