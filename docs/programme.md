@@ -13,7 +13,7 @@ permalink: /programme/
 <p>The talks will be held in the <a href="https://www.kingsvenues.com/Conferences-Meetings/Strand/Council-Room.aspx">Council Room</a>. Lunch and tea/coffee will be served in the <a href="https://www.kingsvenues.com/Conferences-Meetings/Strand/River-Room.aspx">River Room</a>, where the poster session will also take place. </p>
 
 
-<p>All talks will be given the <em><b>Nash Lecture Theatre</b></em>, whilst registration, lunch and the poster sessions will take place in the <em><b>River room</b></em>. </p>
+<!--<p>All talks will be given the <em><b>Nash Lecture Theatre</b></em>, whilst registration, lunch and the poster sessions will take place in the <em><b>River room</b></em>. </p>-->
 
 <p>Full schedule to be announced here soon. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter for future updates</a>.</p>
  
