@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Quantitative Systems Biology 2018 (November 9th)
+title: Quantitative Systems Biology 2019 (October 28th and 29th)
 author: The QSB Organising Committee
 email: qsbw@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  QSB2018 - student-led workshop, 9th November 2018, Strand Campus, King's College London.
+  QSB2019 - student-led workshop, 28th - 29th October 2019, Strand Campus, King's College London.
 #baseurl: /qsb2017 # the subpath of your site, e.g. /blog
-production_url: “http://qsbworkshop.github.io/qsb2018” # the base hostname & protocol for your site, e.g. http://example.com
+production_url: “http://qsbworkshop.github.io/qsb2019” # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

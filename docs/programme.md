@@ -8,7 +8,7 @@ permalink: /programme/
 <!--   
  <p><em>A detailed schedule will appear here soon.</em> 
 -->
-<p>The workshop shall be held at the Strand campus of King's College London - <a href="https://qsbworkshop.github.io/qsb2018/venue/">see here for more details</a>. </p>
+<p>The workshop shall be held at the Strand campus of King's College London - <a href="https://qsbworkshop.github.io/qsb2019/venue/">see here for more details</a>. </p>
 
 <p>The talks will be held in the <a href="https://www.kingsvenues.com/Conferences-Meetings/Strand/Council-Room.aspx">Council Room</a>. Lunch and tea/coffee will be served in the <a href="https://www.kingsvenues.com/Conferences-Meetings/Strand/River-Room.aspx">River Room</a>, where the poster session will also take place. </p>
 
