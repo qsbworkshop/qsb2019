@@ -25,7 +25,7 @@ production_url: “http://qsbworkshop.github.io/qsb2018” # the base hostname &
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
