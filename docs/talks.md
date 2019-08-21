@@ -28,7 +28,7 @@ permalink: /talks/
 
 <h2>Student talks:</h2>
 <br>
-<p>Student talks will be held on Tuesday morning. Students wishing to talk will be able to apply in the near future. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter</a>, or check this website for information when the applications are open.</a>
+<p>Student talks will be held on Tuesday morning. Students wishing to talk will be able to apply in the near future. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter</a>, or check this website for information when the applications are open.
 <!--
 <h4>Sarah-Beth Amos (University of Oxford)	Simulations and Markov state models of protein disorder</h4>
 <br>
