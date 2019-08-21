@@ -18,7 +18,6 @@ permalink: /programme/
 <p>Full schedule to be announced here soon. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter for future updates</a>.</p>
  
 <br>
-<!--
 <head>
 <style>
 table, th, td {
