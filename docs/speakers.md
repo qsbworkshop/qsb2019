@@ -43,7 +43,7 @@ Patrick Kemmeren obtained his PhD in 2005 from Utrecht University for his work o
 <!--
 <h3><a href="http://people.cryst.bbk.ac.uk/~ubcg71a/research.html">Irilenia Nobeli</a></h3>
   <p>
-     <img src="http://qsbworkshop.github.io/qsb2018/images/nobeli.jpg" alt="Irilenia Nobeli" style="float:Left;width:140px;padding-right:10px;padding-bottom:30px;"><b>Talk: </b>From transcriptomic data to plausible biology hypotheses via bioinformatics<br><br><b>Bio: </b>Irilenia Nobeli's lab has expertise in computational biology and chemoinformatics. Current interests include regulatory RNAs, transcriptomics in health and disease, disorders of the brain and the role of small molecules in Biology.
+     <img src="https://qsbworkshop.github.io/qsb2018/images/nobeli.jpg" alt="Irilenia Nobeli" style="float:Left;width:140px;padding-right:10px;padding-bottom:30px;"><b>Talk: </b>From transcriptomic data to plausible biology hypotheses via bioinformatics<br><br><b>Bio: </b>Irilenia Nobeli's lab has expertise in computational biology and chemoinformatics. Current interests include regulatory RNAs, transcriptomics in health and disease, disorders of the brain and the role of small molecules in Biology.
   </p>
 <br>
 <br>

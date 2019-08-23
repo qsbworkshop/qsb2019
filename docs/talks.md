@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 <!--
-<p> We are now open for registration. Please see <a href="http://qsbworkshop.github.io/qsb2018/register"> here</a> for registration forms and related details. </p>
+<p> We are now open for registration. Please see <a href="https://qsbworkshop.github.io/qsb2018/register"> here</a> for registration forms and related details. </p>
 -->
 <br>
 <p> The Monday workshop will consist of a series of talks by invited speakers. There are also poster presentations during lunch and the afternoon coffee break. </p>
