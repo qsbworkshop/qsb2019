@@ -4,7 +4,7 @@ title: Location
 permalink: /venue/
 ---
 
-The workshop will be held at the Strand Campus of King's College London, which is located in central London (see the map below). All talks will be given in the Council Room, whilst registration, lunch and poster sessions will take place in the River room. We will set up directions to these rooms in campus.
+The workshop and networking event will be held at the Strand Campus of King's College London, which is located in central London (see the map below). We will provide directions from the reception to the event rooms on the day.
 
 <p><em>If you are not based at King's College London, please sign in at the Strand entrance with the security. Please factor this into your travel arrangements.</em></p>
 
