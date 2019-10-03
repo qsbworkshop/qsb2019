@@ -19,9 +19,9 @@ permalink: /speakers/
 <br>
 <br>
 
-<h3><a href="https://research.prinsesmaximacentrum.nl/en/team-members/patrick-kemmeren">Patrick Kemmeren</a></h3>
+<h3><a href="https://research.prinsesmaximacentrum.nl/en/team-members/patrick-kemmeren">Patrick Kemmeren</a> | Understanding regulatory systems and mechanisms of genetic interactions by exploiting expression profiles of large scale gene deletions</h3>
   <p>
-     <img src="https://qsbworkshop.github.io/qsb2019/images/Kemmeren.PNG" alt="Patrick Kemmeren" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Talk: </b>Title TBC<br><br><b>Bio: </b>
+     <img src="https://qsbworkshop.github.io/qsb2019/images/Kemmeren.PNG" alt="Patrick Kemmeren" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Bio: </b>
 Patrick Kemmeren obtained his PhD in 2005 from Utrecht University for his work on analyzing and integrating genome-scale data. A postdoctoral fellowship obtained through EMBO and the Netherlands Genomics Initiative (NGI) allowed him to work at the University of California, San Francisco. Under the supervision of Dr. Nevan Krogan, he worked on the definition of an accurate and comprehensive map of stable protein-protein interactions. After returning to University Medical Center Utrecht (UMC Utrecht), he obtained a VENI grant from the Dutch Science Foundation (NWO) in 2007. After starting his own research group, Patrick received an NWO VIDI award in 2012 to investigate further the molecular mechanisms underlying genetic interactions. In 2013, Patrick became an Assistant Professor at the Center for Molecular Medicine, UMC Utrecht. In addition to these research activities, Patrick has been the coordinator of the High-Performance Computing facility for Life Sciences at Utrecht Science Park between 2012 and 2017, executive committee member of the Utrecht Bioinformatics Center since 2014 and board member of the Netherlands Bioinformatics and Systems Biology research school since 2017. Patrick joined the Princess Máxima Center for Pediatric Oncology as a group leader in 2016.  </p>
 <br>
 <br>
