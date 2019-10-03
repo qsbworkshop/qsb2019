@@ -10,31 +10,6 @@ permalink: /talks/
 <br>
 <p> The Monday workshop will consist of a series of talks by invited speakers. There are also poster presentations during lunch and the afternoon coffee break. </p>
 
-<h2>Invited speakers:</h2>
-<br>
-<!--<h4>To be confirmed.</h4>-->
-
-<h4>Becca Asquith (Imperial College London)	</h4>
-<b>The “stemness” of immune memory </b>
-<br>
-<br>
-<h4>Sara-Jane Dunn (Microsoft Research Cambridge)	</h4>
-<b>Automated Reasoning to Uncover the Structure and Function of Biological Programs </b>
-<br>
-<br>
-<h4>Patrick Kemmeren (Princess Máxima Center)	</h4>
-<b></b>
-<br>
-<br>
-<h4>Andela Šarić (University College London)</h4>
-<b></b>
-<br>
-<br>
-<h4>Dora Tang (MPI-CBG)	</h4>
-<b>Bottom up synthetic cellularity </b>
-<br>
-<br>
-
 <h2>Talk abstracts:</h2>
 <br>
 <embed src="/qsb2019/images/abstracts.pdf" width="100%" height="1080px">
