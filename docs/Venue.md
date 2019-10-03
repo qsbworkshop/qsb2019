@@ -4,13 +4,13 @@ title: Location
 permalink: /venue/
 ---
 
-The workshop and networking event will be held at the Strand Campus of King's College London, which is located in central London (see the map below). We will provide directions from the reception to the event rooms on the day.
+The workshop and networking event will be held at the Strand Campus of King's College London, which is located in central London (see the map below). We will provide directions from the reception to the event rooms on the day. The talks will be held in K1.28, and the poster session and lunch will be held in S3.31.
 
 <p><em>If you are not based at King's College London, please sign in at the Strand entrance with the security. Please factor this into your travel arrangements.</em></p>
 
 <p> If you are travelling by public transport the Strand Campus can easily be reached using the London Underground network. The closest Underground Stations include:</p>
 
- <li>Temple (Circle and District lines) - 2 minutes walk</li>
+  <li>Temple (Circle and District lines) - 2 minutes walk</li>
   <li>Charing Cross (Bakerloo and Northern lines) - 10 minutes walk</li>
   <li>Embankment (Circle, District and Bakerloo lines) - 10 minutes walk</li>
   <li>Waterloo (Jubilee, Northern, Bakerloo, Waterloo & City lines) - 12 minutes walk</li>

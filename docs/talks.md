@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Talks
 permalink: /talks/
 ---
 
@@ -15,22 +16,32 @@ permalink: /talks/
 
 <h4>Becca Asquith (Imperial College London)	</h4>
 <br>
-<h4>Sara-Jane Dunn (Microsoft Research)	</h4>
+<h4>The “stemness” of immune memory </h4>
+<br>
+<h4>Sara-Jane Dunn (Microsoft Research Cambridge)	</h4>
+<br>
+<h4>Automated Reasoning to Uncover the Structure and Function of Biological Programs </h4>
 <br>
 <h4>Patrick Kemmeren (Princess Máxima Center)	</h4>
 <br>
+<h4> </h4>
+<br>
 <h4>Andela Šarić (University College London)</h4>
+<br>
+<h4> </h4>
 <br>
 <h4>Dora Tang (MPI-CBG)	</h4>
 <br>
-<!---<h4>Irilenia Nobeli (Birkbeck)	From transcriptomic data to plausible biology hypotheses via bioinformatics</h4>-->
+<h4>Bottom up synthetic cellularity </h4>
+<br>
+<br>
 
-<h2>Student talks:</h2>
+<h2>Talk abstracts:</h2>
 <br>
-<p>Student talks will be held on Tuesday morning. Students wishing to talk will be able to apply in the near future. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter</a>, or check this website for information when the applications are open.
-<!--
-<h4>Sarah-Beth Amos (University of Oxford)	Simulations and Markov state models of protein disorder</h4>
+<embed src="/qsb2019/images/abstracts.pdf" width="100%" height="1080px">
+
+
+<!--<h2>Student talks:</h2>
 <br>
-<h4>Nuria Folguera Blasco (The Francis Crick Institute)	Beating cancer 'escape room': let's use mathematical modelling to unlock cells!</h4>
-<br>
--->
+<p>Student talks will be held on Tuesday morning. Students wishing to talk will be able to apply in the near future. Please see the <a href="https://twitter.com/qsb_kcl?lang=en">QSB twitter</a>, or check this website for information when the applications are open.-->
+
