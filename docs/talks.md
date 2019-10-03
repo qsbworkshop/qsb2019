@@ -16,23 +16,23 @@ permalink: /talks/
 
 <h4>Becca Asquith (Imperial College London)	</h4>
 <br>
-<h4>The “stemness” of immune memory </h4>
+<b>The “stemness” of immune memory </b>
 <br>
 <h4>Sara-Jane Dunn (Microsoft Research Cambridge)	</h4>
 <br>
-<h4>Automated Reasoning to Uncover the Structure and Function of Biological Programs </h4>
+<b>Automated Reasoning to Uncover the Structure and Function of Biological Programs </b>
 <br>
 <h4>Patrick Kemmeren (Princess Máxima Center)	</h4>
 <br>
-<h4> </h4>
+<b></b>
 <br>
 <h4>Andela Šarić (University College London)</h4>
 <br>
-<h4> </h4>
+<b></b>
 <br>
 <h4>Dora Tang (MPI-CBG)	</h4>
 <br>
-<h4>Bottom up synthetic cellularity </h4>
+<b>Bottom up synthetic cellularity </b>
 <br>
 <br>
 
