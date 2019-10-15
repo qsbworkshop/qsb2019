@@ -17,7 +17,7 @@ Patrick Kemmeren obtained his PhD in 2005 from Utrecht University for his work o
 <br>
 <br>
 
-<h3><a href="https://www.ucl.ac.uk/physics-living-systems/training/msc-biological-physics/teaching-staff/dr-andela-saric">Andela Šarić</a> | TBC</h3>
+<h3><a href="https://www.ucl.ac.uk/physics-living-systems/training/msc-biological-physics/teaching-staff/dr-andela-saric">Andela Šarić</a> | How to build a biological nanomachine</h3>
   <p>
      <img src="https://qsbworkshop.github.io/qsb2019/images/Saric.png" alt="Andela Šarić" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Bio: </b> Andela received her PhD from Columbia University in New York in 2013, after which she moved onto a postdoctoral fellowship at the University of Cambridge, where she was also a Research Fellow of Emmanuel College. She is currently a Junior Group Leader in the Department of Physics & Astronomy at UCL. Andela uses computer simulations to study biological assembly. She is interested in how proteins assemble “on-demand” into nanososcale structures that generate the molecular machinery of life. She is also devoted to understanding uncontrolled protein aggregation in the context of neurodegenerative diseases.
 
