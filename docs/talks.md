@@ -12,7 +12,7 @@ permalink: /talks/
 
 <h2>Talk abstracts:</h2>
 <br>
-<embed src="/qsb2019/images/abstracts.pdf" width="100%" height="1080px">
+<embed src="/qsb2019/images/abstracts_temp.pdf" width="100%" height="1080px">
 
 
 <!--<h2>Student talks:</h2>

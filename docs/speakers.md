@@ -9,15 +9,6 @@ permalink: /speakers/
   </p>
 <br>
 <br>
-<br>
-<br>
-
-<h3><a href="https://www.microsoft.com/en-us/research/people/sarajand/">Sara-Jane Dunn</a> | Automated Reasoning to Uncover the Structure and Function of Biological Programs </h3>
-  <p>
-     <img src="https://qsbworkshop.github.io/qsb2019/images/Dunn.jpg" alt="Sara-Jane Dunn" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Bio: </b>I am a scientist based in the Biological Computation group at Microsoft Research Cambridge, and an Affiliate PI at the Wellcome-MRC Stem Cell Institute, University of Cambridge. I completed my undergraduate and postgraduate training at the University of Oxford, first obtaining a Masters in Mathematics, followed by a DPhil in Computational Biology from the Department of Computer Science. My research sits at the interface between mathematics, computer science and biology. More specifically, I focus on the concept of biology as computation, in which the biochemistry of the cell performs information processing in the service of decision-making. Towards this, I collaborate with experimentalists at the Universities of Cambridge and Padova to investigate stem cell decision-making throughout Development. As a computational scientist in biology, my goal is to identify the necessary abstractions to develop predictive, explanatory models of the biological programs that govern cellular behaviour. Ultimately, this research will lead us to make cells programmable, which could fundamentally transform medicine, agriculture and even the ways we generate energy.
-  </p>
-<br>
-<br>
 
 <h3><a href="https://research.prinsesmaximacentrum.nl/en/team-members/patrick-kemmeren">Patrick Kemmeren</a> | Understanding regulatory systems and mechanisms of genetic interactions by exploiting expression profiles of large scale gene deletions</h3>
   <p>
@@ -40,7 +31,16 @@ Patrick Kemmeren obtained his PhD in 2005 from Utrecht University for his work o
   <p>
      <img src="/qsb2019/images/Tang.jpg" style="float:Left;width:140px;padding-right:10px;"><b>Biography: </b>T-Y Dora Tang received her PhD from Imperial College London, UK, in 2010 in the area of membrane biophysics. After 1 year as an EPSRC knowledge transfer secondee at Diamond Light Source, Oxfordshire, UK she undertook a post-doc at the University of Bristol, UK, in the areas of origin of life and then synthetic biology. In 2016 she started her independent lab at the MPI-CBG, Dresden as part of the MaxSynBio consortium. Her research lies between biophysics, synthetic biology and materials chemistry with the goal of building minimal synthetic cellular systems as physical models for biological phenomena specifically those related to compartmentalisation. These minimal systems aim to address questions in origin of life and in modern biology  such as “what are the conditions required to drive molecular organisation from disorder?”
   </p>
-  
+ <br>
+ <br>
+
+ 
+<h3><a href="https://www.microsoft.com/en-us/research/people/yordanov/">Boyan Yordanov</a> | TBC </h3>
+  <p>
+     <img src="https://qsbworkshop.github.io/qsb2019/images/yordanov.jpg" alt="Boyan Yordanov" style="float:Left;width:140px;padding-right:10px;padding-bottom:50px;"><b>Bio: </b>I am a scientist with the Biological Computation Group at Microsoft Research, working on programming biological systems and understanding the computation performed by living cells and organisms. My research aims to accelerate the design and reproducible construction of engineered biochemical circuits with robust, desirable behaviour (synthetic biology and DNA computing) and improve our understanding of the information processing strategies of natural biological systems (stem cell and developmental biology). To address these problems, I design, implement and apply methods that integrate computational analysis with experimental protocols. I was involved in setting up the first experimental biological lab at Microsoft Research, where we are now testing technologies that bring together computational analysis, experimental protocols, and lab automation to support our efforts in genetic engineering of living cells. I also contributed to the development of the RE:IN tool and methodology for reasoning about biological programs, which has been used to provide insights into the decision-making of stem cells.
+  </p>
+<br>
+<br> 
 <!--
 <h3><a href="http://people.cryst.bbk.ac.uk/~ubcg71a/research.html">Irilenia Nobeli</a></h3>
   <p>
