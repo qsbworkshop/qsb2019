@@ -8,11 +8,11 @@ permalink: /talks/
 <p> We are now open for registration. Please see <a href="https://qsbworkshop.github.io/qsb2018/register"> here</a> for registration forms and related details. </p>
 -->
 <br>
-<p> The Monday workshop will consist of a series of talks by invited speakers. There are also poster presentations during lunch and the afternoon coffee break. </p>
+<p> The Monday workshop will consist of a series of talks by invited speakers. There are also poster presentations during lunch and the afternoon coffee break. The day will take place in room K1.28, with lunch served in S-3.18.</p>
 
 <h2>Talk abstracts:</h2>
 <br>
-<embed src="/qsb2019/images/abstracts_temp.pdf" width="100%" height="1080px">
+<embed src="/qsb2019/images/abstracts.pdf" width="100%" height="1080px">
 
 
 <!--<h2>Student talks:</h2>
